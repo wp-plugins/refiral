@@ -100,7 +100,7 @@ if(!class_exists('Refiral')) {
                         $order_total = $order->get_total( );
                         $order_subtotal = $order->get_subtotal_to_display();
                         $order_subtotal = preg_replace("/[^0-9.]/", "", $order_subtotal);
-                        $order_subtotal = round(preg_replace('{^\.}', '', $order_subtotal, 1));
+                        $order_subtotal = preg_replace('{^\.}', '', $order_subtotal, 1);
                         $order_coupons = $order->get_used_coupons( );
                         $order_coupon = $order_coupons[0];
                         $order_items = ($order->get_items());

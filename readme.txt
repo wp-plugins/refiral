@@ -34,19 +34,19 @@ OR
 =What is Refiral?=
 Refiral is a unique first-of-its-kind marketing solutions package specifically designed to serve all types of online business.
 
-=Who is Refiral for?=
+= Who is Refiral for? =
 Refiral is built for e-commerce businesses. Anybody and everybody who wants to offer/sell any product or service can use Refiral and start generating referrals virally.
 
 Are you a small enterprise, a quirky brand, a boutique owner, fashion designer or sell books, stationary or gifts online – YES, we are here to help all of you boost sales upto 3X! 
 In fact, some clever SaaS businesses have manipulated our system to work for them too!
 
 
-=How does pricing work?=
+= How does pricing work? =
 We run a simple postpaid pricing model – you earn, you pay; you don’t earn, you don’t! We charge you a minimal commission ONLY on the sales Refiral brings you, i.e. only on purchases by customers using referral campaign and their referred friends. 
 
 There is NO setup or installation fee, NO minimum usage fee, NO long term contracts.
 
-=I have more questions, what should I do?=
+= I have more questions, what should I do? =
 We know that you may still have questions and we want to hear from you. Email us at support@refiral.com and we will get back to you just as fast as we can. 
 
 We provide you with: 

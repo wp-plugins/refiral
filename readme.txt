@@ -27,8 +27,9 @@ NO setup/installation fee. NO minimum usage fee. NO long-term contract.
 == Installation ==
 * Upload `refiral` directory to the `/wp-content/plugins/` directory
 * Activate the plugin through the 'Plugins' menu in WordPress
-OR
-* Install it via WordPress admin
+
+= OR =
+* Install it via WordPress admin plugin manager *
 
 == Frequently Asked Questions ==
 = What is Refiral? =

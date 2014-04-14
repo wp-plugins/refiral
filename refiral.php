@@ -105,8 +105,9 @@ if(!class_exists('Refiral')) {
                         $order_coupon = $order_coupons[0];
                         $order_items = ($order->get_items());
                         foreach ($order_items as $order_item) {
-                            $cartInfo =  $order_item['name']. ' ' .$order_item['product_id']. ', ';
+                            $cartInfoArray[] =  array("id" => $order_item['product_id'], "name" => $order_item['name'], "quantity" => $order_item['qty']);
                         }
+                        $cartInfo = json_encode($cartInfoArray);
                         $order_email = $order->billing_email;
                         $order_name = $order->billing_first_name.' '.$order->billing_last_name;
                         $flag = true;
@@ -121,7 +122,7 @@ if(!class_exists('Refiral')) {
                 if($flag)
                 {
 	                echo "<script>";
-	                echo "invoiceRefiral('$order_total', '$order_subtotal', '$order_coupon', '$cartInfo', '$order_name', '$order_email');";
+	                echo "invoiceRefiral('$order_subtotal', '$order_total', '$order_coupon', '$cartInfo', '$order_name', '$order_email');";
 	                echo "</script>";
                 }
             }

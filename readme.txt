@@ -31,7 +31,7 @@ OR
 * Install it via WordPress admin
 
 == Frequently Asked Questions ==
-=What is Refiral?=
+= What is Refiral? =
 Refiral is a unique first-of-its-kind marketing solutions package specifically designed to serve all types of online business.
 
 = Who is Refiral for? =

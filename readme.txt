@@ -1,6 +1,6 @@
 === Refiral ===
 Contributors: refiral
-Tags: WoocCommerce, Referral, Referral Marketing, Viral, Viral Marketing, Increase sales, sales, Marketing, Refiral, Word of mouth, increase, social media, social media marketing, email marketing, refer a friend, friends, friend, facebook, twitter, google plus, customer referrals, campaigns, referral campaign, marketing campaign, Refer a friend, referral program, Customer Referral Campaigns, Contests, Customer Referral Program, Referrals, Affiliate, Ambassador, refer friends, invite referrals, Refiral, Refiral Marketing
+Tags: WooCommerce, Referral, Referral Marketing, Viral, Viral Marketing, Increase sales, sales, Marketing, Refiral, Word of mouth, increase, social media, social media marketing, email marketing, refer a friend, friends, friend, facebook, twitter, google plus, customer referrals, campaigns, referral campaign, marketing campaign, Refer a friend, referral program, Customer Referral Campaigns, Contests, Customer Referral Program, Referrals, Affiliate, Ambassador, refer friends, invite referrals, Refiral, Refiral Marketing
 Requires at least: 3.0
 Tested up to: 3.9
 Stable tag: 4.3

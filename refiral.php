@@ -108,7 +108,7 @@ else
 							foreach ($order_items as $order_item) {
 								$cartInfoArray[] =  array("id" => $order_item['product_id'], "name" => $order_item['name'], "quantity" => $order_item['qty']);
 							}
-							$cartInfo = json_encode($cartInfoArray);
+							$cartInfo = serialize($cartInfoArray);
 							$order_email = $order->billing_email;
 							$order_name = $order->billing_first_name.' '.$order->billing_last_name;
 							$flag = true;

@@ -119,7 +119,7 @@ else
 					else
 						echo 'var showButton = true;';
 					echo '</script>';
-					echo '<script src="http://refiral.com/api/all.js"></script>';
+					echo '<script src="//rfer.co/api/v1/js/all.js"></script>';
 					if($flag)
 					{
 						echo "<script>";

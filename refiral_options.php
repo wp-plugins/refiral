@@ -93,7 +93,7 @@
 	   	?>
 	</div>
 	<div class="refiral_desc">
-		<div class="refiral_logo"><a target="_blank" href="http://www.refiral.com"><img src="http://my.refiral.com/images/logo.png" width="100%" /></a></div>
+		<div class="refiral_logo"><a target="_blank" href="http://www.refiral.com"><img src="http://cdn.refiral.com/main/images/logo.png" width="100%" /></a></div>
 		<hr/>
 		<h3 style="text-align: center;">Launch your referral campaign virally.</h3> 
 		<h4 style="text-align: justify;">Boost your sales upto 3X with our new hybrid marketing channel. Run your personalized, easy to integrate fully automated referral program.</h4>

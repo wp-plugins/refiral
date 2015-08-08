@@ -1,4 +1,6 @@
 <?php
+if(!isset($_SESSION))
+	session_start();
 /**
 * Plugin Name: Refiral
 * Plugin URI: http://www.refiral.com
@@ -30,8 +32,6 @@ else
 
 			// Defining Constructor
 			public function __construct($id) {
-				// Start Session
-				session_start();
 				$this->plugin_id = $id;
 				$this->options = array('refiral_key' => '', 'refiral_enable' => 'on' );
 
@@ -71,8 +71,6 @@ else
 
 			// Add order_id in session variable
 			public function refiral_invoice($order_id) {
-				// Start Session
-				session_start();
 				$_SESSION['refiral_invoice'] = $order_id;
 			}
 
